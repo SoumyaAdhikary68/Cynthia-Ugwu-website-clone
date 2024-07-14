@@ -1,4 +1,4 @@
-# This an exact clone of famous Cynthia Ugwa website
+# This an exact clone of famous Cynthia Ugwa website ✅
 ## Whats's inside:
 Here you can experience the amazing animations and website of the Cynthia Ugwa website which is also responsive means it can be used in both desktop and phone mode.
 ## Tech Stak used:
