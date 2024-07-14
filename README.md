@@ -1,6 +1,6 @@
-# This a Music App player which works as a clone of Spotify
+# This an exact clone of famous Cynthia Ugwa website
 ## Whats's inside:
-Here you can use a music player with multiple songs with all controls and the clone is also responsive means it can be used in both desktop and phone mode.
+Here you can experience the amazing animations and website of the Cynthia Ugwa website which is also responsive means it can be used in both desktop and phone mode.
 ## Tech Stak used:
 <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" height="100px" width="100px" /><img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" height=100px width=100px /><img src ="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" height="75px" width="75px" /> 
 ## Version Control:
